@@ -1,1 +1,0 @@
-# Aplicaci-n-de-gesti-n-de-pedidos-mejorada
